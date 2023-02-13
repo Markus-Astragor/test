@@ -8,4 +8,21 @@
   .check{
     display: block;
   }
+  .menu{
+    background-color: black;
+    color: white;
+  }
+  .sub-menu{
+    color: white;
+    background-color: black;
+  }
+  .menu-wrap.burger-menu{
+    background-color: black;
+    color: white;
+  }
+  .bm-item.bm-item-selected{
+    background-color: black;
+    color: white;
+  }
+
 }
